@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -12,7 +13,7 @@
     <div class="container py-5">
         <header class="mb-5">
             <div class="d-flex justify-content-between align-items-center">
-                <h1 class="mb-0">Menu Makanan</h1>
+                <h1 class="mb-0">Menu Cilooks-licious</h1>
                 <div class="position-relative">
                     <button id="cart-button" class="btn btn-primary position-relative">
                         <i class="fas fa-shopping-cart"></i> Keranjang
@@ -73,7 +74,6 @@
                 </button>
             </div>
             <div id="cart-items" class="mb-3">
-                <!-- Cart items will be displayed here -->
                 <p class="text-center text-muted">Keranjang kosong</p>
             </div>
             <hr>
@@ -125,6 +125,12 @@
             </div>
         </div>
     </div>
+
+    <footer>
+        <div class="container" style="text-align: center;">
+            <p>&copy; 2025 Cilok Suwir Ayam. All rights reserved.</p>
+        </div>
+    </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
